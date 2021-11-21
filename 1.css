@@ -1,0 +1,31 @@
+.main{
+    background: rgb(22,156,157);
+    background: linear-gradient(90deg, rgba(22,156,157,1) 0%, rgba(37,177,173,1) 7%, rgba(133,15,157,1) 24%, rgba(121,9,9,1) 44%, rgba(115,18,20,1) 59%, rgba(81,56,140,1) 79%, rgba(0,212,255,1) 100%);
+    width: 100%;
+    height: 100%;
+}
+.h{
+    display: inline-block;
+    width: 150px;
+    height: 10px; 
+    border: 2px solid black;
+    margin: 2px;
+    text-align: center;
+    position: relative;
+    padding: 47px;
+    font-size: 25px;
+}
+.h:hover{
+    color: white;
+}
+.h1{
+    display: inline-block;
+    width: 150px;
+    height: 10px; 
+    border: 2px solid black;
+    margin: 2px;
+    text-align: center;
+    position: relative;
+    padding: 47px;
+    font-size: 30px;
+}
